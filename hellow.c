@@ -6,6 +6,6 @@ int main(void)
   
     return 0;
 }
-//he
+/
 //hellow
 //hellow
